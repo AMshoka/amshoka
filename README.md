@@ -3,7 +3,7 @@
 
 Currently, I am a master's student studying at [Sharif University of Technology](http://www.sharif.edu/). 
 
-📫 You can visit my homepage on [ahmohammadi.ir](https://ahmohammadi.ir/)
+<!--- 📫 You can visit my homepage on [ahmohammadi.ir](https://ahmohammadi.ir/) --->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoka&show_icons=true)
 
