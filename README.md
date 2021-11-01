@@ -5,7 +5,7 @@ Currently, I am a master's student studying at [Sharif University of Technology]
 
 <!--- 📫 You can visit my homepage on [ahmohammadi.ir](https://ahmohammadi.ir/) --->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoka&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amshoka&show_icons=true)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=shoka.shoka)
